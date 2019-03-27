@@ -10,7 +10,7 @@ Evaluating multiple model results in sklearn using accuracy, recal, precision, f
 # Setup
 **How to obtain this repository:**
 ```sh
-git clone https//link.to.this.projects.git-repo
+git clone https://github.com/danielc92/sklearn-evaluation.git
 ```
 **Modules/dependencies:**
 - `pandas`
