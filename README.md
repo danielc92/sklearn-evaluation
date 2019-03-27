@@ -35,4 +35,4 @@ pip install pandas sklearn jupyter
 - [sklearn documentation](https://scikit-learn.org/)
 - [article on recall, precision, f1-scores #1](https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/)
 - [article on recall, precision, f1-scores #2](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
-- [dataset downloaded from Kaggle](https://kaggle.com)
+- [Credit Card Fraud dataset downloaded from Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
